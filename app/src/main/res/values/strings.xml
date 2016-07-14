@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogFragmentOrientationExercise</string>
+    <string name="some_title">Some title</string>
+    <string name="btn_click">Press if you may</string>
+</resources>
